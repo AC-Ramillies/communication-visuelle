@@ -16,5 +16,5 @@ Si l'identité visuelle de la commune change et que vous souhaitez mettre à jou
 3. Téléversez-le ici en choisissant "Overwrite" (Écraser) le fichier existant.
 
 ---
-*Géré par : Service Informatique*
+*Géré par : Service Informatique*<br>
 *Dernière mise à jour : Janvier 2026*
