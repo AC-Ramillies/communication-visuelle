@@ -17,4 +17,4 @@ Si l'identité visuelle de la commune change et que vous souhaitez mettre à jou
 
 ---
 *Géré par : Service Informatique*<br>
-*Dernière mise à jour : Janvier 2026*
+*Dernière mise à jour : Juillet 2026*
