@@ -12,7 +12,7 @@ Les fichiers présents dans ce dossier sont liés "en direct" (hotlinking) à de
 ## Comment mettre à jour un logo ?
 Si l'identité visuelle de la commune change et que vous souhaitez mettre à jour le logo :
 1. Préparez le nouveau logo (format PNG ou JPG, poids optimisé).
-2. Nommez le nouveau fichier **exactement de la même manière** que l'ancien (ex: `logo-signature-ramillies.png`).
+2. Nommez le nouveau fichier **exactement de la même manière** que l'ancien (ex: `logo-raminfo-ramillies.png`).
 3. Téléversez-le ici en choisissant "Overwrite" (Écraser) le fichier existant.
 
 ---
